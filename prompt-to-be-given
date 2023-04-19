@@ -1,0 +1,3 @@
+# scrap this website: https://subslikescript.com/movies with python and beautiful soup.
+# locate the element with tag "ul" and class "scripts-list".Scrape all the "a" elements inside.
+# Get the text attribute and print it.
